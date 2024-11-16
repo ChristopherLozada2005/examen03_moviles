@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Laboratorio Calificado</string>
+    <string name="teacher_list_title">Lista de Profesores</string>
+    <string name="call_failed">Error al intentar realizar la llamada</string>
+    <string name="email_failed">Error al intentar enviar el correo</string>
+</resources>
